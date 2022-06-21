@@ -3,6 +3,10 @@ code for paper:
 'A Non-contact heart rate estimation framework based on photoplethysmography amplitude variation elimination and data fusion'
 
 we proposed and implement a method with following block diagram for extracting heart rate using face images sequence.
+
+data set link: https://sites.google.com/view/ybenezeth/ubfc-phys
+
+
 ![plot](face-rppg.png)
 
 please cite us as follows:
